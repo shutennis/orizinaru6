@@ -1,0 +1,60 @@
+@media only screen and (max-width: 640px){
+  .contact{
+    width:100%;
+  }
+  .sidebar{
+    display:none;
+  }
+  .top-item img{
+    width:100%;
+    height:400px;
+  }
+  .header-nav{
+    display:block;
+  }
+  .photo-wrapper img{
+    width:100%;
+  }
+  .brand-contact{
+    flex-wrap: wrap;
+  }
+  .container{
+    width:90%;
+  }
+  .brand-item{
+    width:90%;
+    margin:0 auto;
+  }
+  .brand-item p{
+    width:100%;
+    padding-top:20px;
+    font-size:14px;
+  }
+  .product{
+   flex-wrap: wrap;
+  }
+  .product-item{
+    width:80%;
+    margin: 0 auto;
+  }
+  .product-item img{
+    width:100%;
+  }
+  .product-textarea{
+    width:90%;
+    margin: 0 auto;
+  }
+  .company-contact{
+    flex-wrap: wrap;
+  }
+  .company-textarea{
+    width:100%;
+    padding-bottom:40px;
+  }
+  .company-textarea p{
+    line-height: 30px;
+  }
+  .company-item{
+    width:100%;
+  }
+}
